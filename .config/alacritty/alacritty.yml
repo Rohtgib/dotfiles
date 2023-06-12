@@ -1,0 +1,47 @@
+window:
+  opacity: 1
+  padding:
+    x: 5
+    y: 5
+  class:
+    instance: Alacritty
+    general: Alacritty
+
+scrolling:
+  history: 10000
+  multiplier: 3
+
+font:
+  normal:
+    family: Hack
+    style: Regular
+  bold:
+    family: Hack
+    style: Bold
+  size: 10
+# key bindings
+key_bindings:
+  - { key: PageUp,  action: ScrollLineUp }
+  - { key: PageDown, action: ScrollLineDown }
+  - { key: Home,     mods: Shift, action: ScrollToTop,    mode: ~Alt       }
+  - { key: End,      mods: Shift, action: ScrollToBottom, mode: ~Alt       }
+
+draw_bold_text_with_bright_colors: true
+
+# Also do later
+# colors:
+
+cursor:
+  style:
+    shape: Underline
+    blinking: Always
+    blink-interval: 750
+
+selection:
+  save_to_clipboard: false
+
+live_config_reload: true
+
+import:
+  - ~/.config/alacritty/themes/themes/gruvbox_dark.yaml
+

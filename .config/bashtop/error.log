@@ -1,0 +1,147 @@
+ 
+New instance of bashtop version: 0.9.25 Pid: 2757
+ 
+New instance of bashtop version: 0.9.25 Pid: 2956
+ 
+New instance of bashtop version: 0.9.25 Pid: 4069
+ 
+New instance of bashtop version: 0.9.25 Pid: 4376
+07:14:10 PM ERROR: On line 680 
+/usr/bin/bashtop: line 4806: ${pycoproc[1]}: ambiguous redirect
+ 
+New instance of bashtop version: 0.9.25 Pid: 10437
+ 
+New instance of bashtop version: 0.9.25 Pid: 13056
+ 
+New instance of bashtop version: 0.9.25 Pid: 14444
+ 
+New instance of bashtop version: 0.9.25 Pid: 15042
+ 
+New instance of bashtop version: 0.9.25 Pid: 18713
+ 
+New instance of bashtop version: 0.9.25 Pid: 62269
+ 
+New instance of bashtop version: 0.9.25 Pid: 62408
+09:16:49 PM ERROR: On line 4353 
+09:16:49 PM ERROR: On line 4353 
+stty: 'standard input': Input/output error
+09:16:49 PM ERROR: On line 4356 
+ 
+New instance of bashtop version: 0.9.25 Pid: 139893
+ 
+New instance of bashtop version: 0.9.25 Pid: 780
+ 
+New instance of bashtop version: 0.9.25 Pid: 2093
+ 
+New instance of bashtop version: 0.9.25 Pid: 5515
+ 
+New instance of bashtop version: 0.9.25 Pid: 44779
+ 
+New instance of bashtop version: 0.9.25 Pid: 969
+ 
+New instance of bashtop version: 0.9.25 Pid: 9155
+ 
+New instance of bashtop version: 0.9.25 Pid: 2825
+ 
+New instance of bashtop version: 0.9.25 Pid: 25848
+stty: 'standard input': Input/output error
+stty: 'standard input': Input/output error
+11:12:24 PM ERROR: On line 659 
+11:12:24 PM ERROR: On line 659 
+/usr/bin/bashtop: line 660: ((: <80 | <24: syntax error: operand expected (error token is "<80 | <24")
+/usr/bin/bashtop: line 664: echo: write error: Input/output error
+11:12:24 PM ERROR: On line 664 
+/usr/bin/bashtop: line 1126: echo: write error: Input/output error
+11:12:24 PM ERROR: On line 1126 
+ 
+New instance of bashtop version: 0.9.25 Pid: 62857
+ 
+New instance of bashtop version: 0.9.25 Pid: 862
+ 
+New instance of bashtop version: 0.9.25 Pid: 6396
+ 
+New instance of bashtop version: 0.9.25 Pid: 10296
+ 
+New instance of bashtop version: 0.9.25 Pid: 40792
+ 
+New instance of bashtop version: 0.9.25 Pid: 90499
+ 
+New instance of bashtop version: 0.9.25 Pid: 119128
+ 
+New instance of bashtop version: 0.9.25 Pid: 119876
+ 
+New instance of bashtop version: 0.9.25 Pid: 2643
+ 
+New instance of bashtop version: 0.9.25 Pid: 4285
+ 
+New instance of bashtop version: 0.9.25 Pid: 5772
+ 
+New instance of bashtop version: 0.9.25 Pid: 7136
+ 
+New instance of bashtop version: 0.9.25 Pid: 27570
+ 
+New instance of bashtop version: 0.9.25 Pid: 32554
+ 
+New instance of bashtop version: 0.9.25 Pid: 32878
+ 
+New instance of bashtop version: 0.9.25 Pid: 33224
+ 
+New instance of bashtop version: 0.9.25 Pid: 49958
+ 
+New instance of bashtop version: 0.9.25 Pid: 51655
+ 
+New instance of bashtop version: 0.9.25 Pid: 52907
+ 
+New instance of bashtop version: 0.9.25 Pid: 56992
+ 
+New instance of bashtop version: 0.9.25 Pid: 13196
+ 
+New instance of bashtop version: 0.9.25 Pid: 5324
+ 
+New instance of bashtop version: 0.9.25 Pid: 19342
+ 
+New instance of bashtop version: 0.9.25 Pid: 21479
+ 
+New instance of bashtop version: 0.9.25 Pid: 41233
+ 
+New instance of bashtop version: 0.9.25 Pid: 7938
+ 
+New instance of bashtop version: 0.9.25 Pid: 12684
+ 
+New instance of bashtop version: 0.9.25 Pid: 10148
+ 
+New instance of bashtop version: 0.9.25 Pid: 12224
+/usr/bin/bashtop: line 4356: /usr/bin/stty: No such file or directory
+03:46:40 PM ERROR: On line 4356 
+03:46:40 PM ERROR: On line 4353 
+03:46:40 PM ERROR: On line 4353 (MUTED!)
+03:46:40 PM ERROR: On line 4353 
+stty: error while loading shared libraries: libc.so.6: cannot open shared object file: No such file or directory
+03:46:40 PM ERROR: On line 4356 (MUTED!)
+stty: error while loading shared libraries: libc.so.6: cannot open shared object file: No such file or directory
+stty: error while loading shared libraries: libc.so.6: cannot open shared object file: No such file or directory
+03:46:40 PM ERROR: On line 659 
+03:46:40 PM ERROR: On line 659 
+/usr/bin/bashtop: line 660: ((: <80 | <24: syntax error: operand expected (error token is "<80 | <24")
+/usr/bin/bashtop: line 655: 28261 Bus error               (core dumped) ${sleep} 0.2
+03:46:41 PM ERROR: On line 667 
+03:46:43 PM ERROR: On line 2040 
+ 
+New instance of bashtop version: 0.9.25 Pid: 53383
+ 
+New instance of bashtop version: 0.9.25 Pid: 58342
+ 
+New instance of bashtop version: 0.9.25 Pid: 3296
+ 
+New instance of bashtop version: 0.9.25 Pid: 11731
+ 
+New instance of bashtop version: 0.9.25 Pid: 12749
+ 
+New instance of bashtop version: 0.9.25 Pid: 21768
+ 
+New instance of bashtop version: 0.9.25 Pid: 6679
+04:43:36 PM ERROR: On line 680 
+ 
+New instance of bashtop version: 0.9.25 Pid: 8835
+ 
+New instance of bashtop version: 0.9.25 Pid: 11400
